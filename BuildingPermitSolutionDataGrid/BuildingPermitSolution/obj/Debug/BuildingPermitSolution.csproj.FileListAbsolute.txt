@@ -1,0 +1,11 @@
+C:\Users\Owner\Desktop\Coding\three-tier application practice\ThreeTieredApp6\BuildingPermitSolution\BuildingPermitSolution\obj\Debug\BuildingPermitSolution.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\Coding\three-tier application practice\ThreeTieredApp6\BuildingPermitSolution\BuildingPermitSolution\bin\BuildingPermitSolution.dll
+C:\Users\Owner\Desktop\Coding\three-tier application practice\ThreeTieredApp6\BuildingPermitSolution\BuildingPermitSolution\bin\BuildingPermitSolution.pdb
+C:\Users\Owner\Desktop\Coding\three-tier application practice\ThreeTieredApp6\BuildingPermitSolution\BuildingPermitSolution\bin\BuildingPermit.dll
+C:\Users\Owner\Desktop\Coding\three-tier application practice\ThreeTieredApp6\BuildingPermitSolution\BuildingPermitSolution\bin\BusinessLogic.dll
+C:\Users\Owner\Desktop\Coding\three-tier application practice\ThreeTieredApp6\BuildingPermitSolution\BuildingPermitSolution\bin\DataAccess.dll
+C:\Users\Owner\Desktop\Coding\three-tier application practice\ThreeTieredApp6\BuildingPermitSolution\BuildingPermitSolution\bin\BuildingPermit.pdb
+C:\Users\Owner\Desktop\Coding\three-tier application practice\ThreeTieredApp6\BuildingPermitSolution\BuildingPermitSolution\bin\BusinessLogic.pdb
+C:\Users\Owner\Desktop\Coding\three-tier application practice\ThreeTieredApp6\BuildingPermitSolution\BuildingPermitSolution\bin\DataAccess.pdb
+C:\Users\Owner\Desktop\Coding\three-tier application practice\ThreeTieredApp6\BuildingPermitSolution\BuildingPermitSolution\obj\Debug\BuildingPermitSolution.dll
+C:\Users\Owner\Desktop\Coding\three-tier application practice\ThreeTieredApp6\BuildingPermitSolution\BuildingPermitSolution\obj\Debug\BuildingPermitSolution.pdb

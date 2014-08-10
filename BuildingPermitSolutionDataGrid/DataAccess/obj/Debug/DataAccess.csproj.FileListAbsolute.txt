@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\Coding\three-tier application practice\ThreeTieredApp6\BuildingPermitSolution\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Owner\Desktop\Coding\three-tier application practice\ThreeTieredApp6\BuildingPermitSolution\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Owner\Desktop\Coding\three-tier application practice\ThreeTieredApp6\BuildingPermitSolution\DataAccess\bin\Debug\BuildingPermit.dll
+C:\Users\Owner\Desktop\Coding\three-tier application practice\ThreeTieredApp6\BuildingPermitSolution\DataAccess\bin\Debug\BuildingPermit.pdb
+C:\Users\Owner\Desktop\Coding\three-tier application practice\ThreeTieredApp6\BuildingPermitSolution\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\Coding\three-tier application practice\ThreeTieredApp6\BuildingPermitSolution\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Owner\Desktop\Coding\three-tier application practice\ThreeTieredApp6\BuildingPermitSolution\DataAccess\obj\Debug\DataAccess.pdb
